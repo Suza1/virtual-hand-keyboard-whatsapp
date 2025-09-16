@@ -21,3 +21,6 @@ git clone https://github.com/Suza1/virtual-hand-keyboard-whatsapp.git
 cd virtual-hand-keyboard-whatsapp
 
 pip install -r requirements.txt
+
+##RUN
+streamlit run app.py
