@@ -6,7 +6,6 @@ Using **Computer Vision (OpenCV + Mediapipe)** for hand tracking, the system rec
 It also integrates with **WhatsApp Web** so that typed text can be directly **sent as a message** to a selected phone number.  
 The project includes a **Streamlit-based UI** for entering phone numbers and controlling the keyboard.  
 
----
 
 ## ✨ Features  
 
@@ -20,17 +19,6 @@ The project includes a **Streamlit-based UI** for entering phone numbers and con
 ✅ **Streamlit UI** → Enter phone numbers & control keyboard  
 ✅ **Cross-platform** (Windows, Linux, Mac with camera + browser)  
 
----
-
-## 📸 Demo Screenshots (Add Your Images)  
-
-| Virtual Keyboard | Streamlit UI | WhatsApp Integration |
-|------------------|--------------|----------------------|
-| ![Keyboard](docs/keyboard.png) | ![UI](docs/ui.png) | ![WhatsApp](docs/whatsapp.png) |
-
-*(You can add your own screenshots in a `docs/` folder)*  
-
----
 
 ## ⚙️ How It Works  
 
@@ -50,7 +38,6 @@ The project includes a **Streamlit-based UI** for entering phone numbers and con
    - Enter the phone number (with country code) in the UI.  
    - Press **Send** → The message is typed into **WhatsApp Web** and sent automatically.  
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -61,7 +48,6 @@ The project includes a **Streamlit-based UI** for entering phone numbers and con
 - **Streamlit** → For user interface (enter WhatsApp number, start app)  
 - **WebBrowser API** → To open WhatsApp Web automatically  
 
----
 
 ## 🚀 Installation  
 
